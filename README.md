@@ -15,5 +15,5 @@ To Itailc titile -> *Italic* or _contorl i_
 
 
 ```
-Now , I have 18 years old , my age is the best age to improve in it and my college is `easy` , week in home and week in college.
+Now , I have 18 years old , my age is the best age to improve in it and my college is **easy**, week in home and week in college.
 ```

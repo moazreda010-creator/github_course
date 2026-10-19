@@ -11,4 +11,4 @@ To Itailc titile -> *Italic* or _contorl i_
 
 > 19/10 is the _first_ day in journey
 
-> Mom is the 'important person' in my life
+> Mom is the ' important person ' in my life

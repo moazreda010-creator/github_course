@@ -12,3 +12,8 @@ To Itailc titile -> *Italic* or _contorl i_
 > 19/10 is the _first_ day in journey
 
 > Mom is the `important person` in my life
+
+
+```
+Now , I have 18 years old , my age is the best age to improve in it and my college is `easy` , week in home and week in college.
+```

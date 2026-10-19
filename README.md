@@ -19,3 +19,5 @@ Now , I have 18 years old , my age is the best age to improve in it and my colle
 ```
 
 Mr . Osama Elzero [channel](https://www.youtube.com/@ElzeroWebSchool).
+
+Link to the sample section: [Link Text](#sample-section).

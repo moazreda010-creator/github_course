@@ -32,3 +32,8 @@ Mr . Osama Elzero [channel](https://www.youtube.com/@ElzeroWebSchool).
 1. go the Gym
 2. study programming daily
 3. study english daily
+
+#### What I do in gym?
+1. Play leg day
+   - 5 exercises for leg
+     - 2 exercises for arm

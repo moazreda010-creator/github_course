@@ -22,4 +22,7 @@ Mr . Osama Elzero [channel](https://www.youtube.com/@ElzeroWebSchool).
 
 **Go to orders of GitHub**[ go ](#github-notes).
 
++ You must work hard every day because the day is will finished.
++ Don't forget your goal man.
+
 ![Click](https://i.postimg.cc/FFcyBHJ1/mosque.png)  

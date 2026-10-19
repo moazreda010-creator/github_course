@@ -9,4 +9,4 @@ To Itailc titile -> *Italic* or _contorl i_
 
 **Muzo is a _good_ man**
 
-> 19/10 is the first day in journey
+> 19/10 is the _first_ day in journey

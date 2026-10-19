@@ -39,6 +39,6 @@ Mr . Osama Elzero [channel](https://www.youtube.com/@ElzeroWebSchool).
      - 2 exercises for arm
 
 #### To-do list 📔
-- [x] go to college
-- [ ] go to Gym
-- [x] eat shofan   
+- [ ] go to college
+- [x] go to Gym
+- [ ] eat shofan   

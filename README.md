@@ -26,3 +26,9 @@ Mr . Osama Elzero [channel](https://www.youtube.com/@ElzeroWebSchool).
 + **Don't forget your goal man.**
 
 ![Click](https://i.postimg.cc/FFcyBHJ1/mosque.png)  
+
+
+### Habits
+1. go the Gym
+2. study programming daily
+3. study english daily

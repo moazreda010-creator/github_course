@@ -37,3 +37,8 @@ Mr . Osama Elzero [channel](https://www.youtube.com/@ElzeroWebSchool).
 1. Play leg day
    - 5 exercises for leg
      - 2 exercises for arm
+
+#### To-do list 📔
+- [x] go to college
+- [ ] go to Gym
+- [x] eat shofan   

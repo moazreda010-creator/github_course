@@ -2,7 +2,7 @@
 **This is first course for me to be better in programming and I will return here later and see the beginning of me**
 ## first video , I learned how to create a new repository and the the git in command line .
 
-## Orders of Github
+## GitHub Notes 📔
 To bold titile -> **Bold** or **contorl B**
 
 To Itailc titile -> *Italic* or _contorl i_
@@ -20,49 +20,4 @@ Now , I have 18 years old , my age is the best age to improve in it and my colle
 
 Mr . Osama Elzero [channel](https://www.youtube.com/@ElzeroWebSchool).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hello
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Go to orders of GitHub**[ go ](#orders-of-github).
+**Go to orders of GitHub**[ go ](#github-notes).

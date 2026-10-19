@@ -65,4 +65,4 @@ Hello
 
 
 
-**Go to orders of GitHub**[ go ](#orders_of_github).
+**Go to orders of GitHub**[ go ](#orders-of-github).
